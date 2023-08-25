@@ -1,0 +1,14 @@
+{
+  "name": "docker-deployment",
+  "version": "1.0.0",
+  "description": "react demo website with authentication server logto",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@logto/react": "^2.1.1"
+  }
+}
